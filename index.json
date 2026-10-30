@@ -1,0 +1,562 @@
+[
+ {
+  "skill": "positioning-orchestrateur",
+  "pack": "Pack Positioning & Business Story",
+  "pack_slug": "positioning",
+  "description": "Pilote de bout en bout la production d'un document de positionnement et de business story (P&BS) en s'appuyant sur les gabarits du Pack Positioning. Déroule les sept étapes du pipeline, de la base de connaissance entreprise aux battlecards, avec les points de validation et le contrôle qualité. À déclencher quand l'utilisateur demande de construire son positionnement, sa proposition de valeur, sa base de messages, un document de référence de marque, des battlecards concurrentielles, ou de clarifier à qui il vend et pourquoi on l'achète. Ne pas utiliser pour une simple reformulation de page d'accueil.",
+  "page": "https://markentiq.com/packs/pack-positioning.html"
+ },
+ {
+  "skill": "concurrence-battlecard",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Génère une battlecard complète et actionnable sur un concurrent en vingt minutes. Utiliser quand l'utilisateur demande une fiche concurrent, une battlecard, un argumentaire contre un concurrent, comment se positionner face à un rival, quoi répondre quand un prospect compare avec un concurrent, ou une mise à jour de fiche concurrentielle pour les ventes. Ne pas utiliser pour redéfinir le positionnement de fond (Pack Positioning) ni pour la veille continue (Skill concurrence-veille-concurrentielle).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "concurrence-page-comparative",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Rédige une page comparative publique « nous contre concurrent » honnête, structurée et orientée conversion. Utiliser quand l'utilisateur demande une page versus, une page alternative à un concurrent, un comparatif produit publiable, un tableau de comparaison pour le site, ou comment capter les prospects qui cherchent « alternative à X ». Ne pas utiliser pour l'argumentaire interne des ventes (concurrence-battlecard) ni pour l'optimisation du classement de la page dans les moteurs de recherche (Pack SEO Skills).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "concurrence-reponse-objection-concurrent",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit des réponses prêtes à prononcer quand un prospect compare avec un concurrent ou cite ses arguments. Utiliser quand l'utilisateur demande quoi répondre quand un prospect mentionne un concurrent, comment réagir à « on regarde aussi X », une réponse à une comparaison de prix avec un rival, un contre-argument face à une feature concurrente, ou un script pour un deal disputé. Ne pas utiliser pour les objections génériques prix, budget ou statu quo (vente-reponses-aux-objections) ni pour produire la fiche concurrent complète (concurrence-battlecard).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "concurrence-veille-concurrentielle",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Structure une veille concurrentielle continue et transforme chaque mouvement concurrent en note d'impact actionnable. Utiliser quand l'utilisateur veut surveiller ses concurrents, monter une veille marché, savoir ce que fait un concurrent, suivre le pricing ou les nouveautés d'un rival, analyser une annonce concurrente (levée de fonds, nouvelle fonctionnalité, baisse de prix, recrutements), organiser sa revue concurrentielle mensuelle, ou décider si un mouvement concurrent mérite une réaction. Ne pas utiliser pour produire l'argumentaire de vente face à un concurrent (Skill concurrence-battlecard) ni pour rédiger une page publique de comparaison (Skill concurrence-page-comparative).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "contenu-brief-creatif",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Rédige un brief créatif complet et sans ambiguïté pour un designer, un vidéaste ou une agence. Utiliser quand l'utilisateur demande un brief pour un visuel, une vidéo, une infographie ou une identité de campagne, un cahier des charges créatif, comment briefer un freelance ou une agence, ou quand les allers-retours créatifs s'éternisent faute de cadrage. Ne pas utiliser pour rédiger les textes publicitaires eux-mêmes (contenu-publicites-multi-angles) ni pour définir la stratégie de campagne (strategie-strategie-de-campagne).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "contenu-cas-client",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Rédige un cas client B2B complet et prouvé, du défi aux résultats chiffrés, avec verbatim et validation client. Utiliser quand l'utilisateur demande un cas client, une success story, une étude de cas, un témoignage structuré, ou de transformer des notes d'entretien client en référence publiable. Ne pas utiliser pour chiffrer un projet futur chez un prospect (vente-business-case-executif) ni pour une page comparative publique.",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "contenu-page-d-atterrissage",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Rédige une page d'atterrissage complète orientée conversion, du titre au CTA, avec structure et preuves. Utiliser quand l'utilisateur demande une landing page, une page de destination pour une campagne, une page produit ou offre, un texte de page qui convertit, une page pour un webinaire ou un aimant à leads, ou d'améliorer une page qui ne convertit pas. Ne pas utiliser pour une page pensée d'abord pour le classement dans les moteurs de recherche (Pack SEO Skills) ni pour une page comparative face à un concurrent (concurrence-page-comparative).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "contenu-publicites-multi-angles",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Génère des variantes publicitaires sur plusieurs angles psychologiques distincts pour tester ce qui fait réagir l'audience. Utiliser quand l'utilisateur demande des textes de publicité, des variantes d'annonces LinkedIn ou Google, des accroches publicitaires, des angles créatifs à tester, du copy pour une campagne payante, ou pourquoi ses annonces fatiguent et comment renouveler ses messages. Ne pas utiliser pour définir la stratégie de campagne elle-même (strategie-strategie-de-campagne) ni pour la page de destination (contenu-page-d-atterrissage).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "contenu-redaction-voix-de-marque",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Rédige ou réécrit n'importe quel contenu dans la voix de la marque, avec test de conformité intégré. Utiliser quand l'utilisateur demande d'écrire dans notre ton, de réécrire un texte pour qu'il sonne comme nous, d'appliquer la charte éditoriale, d'harmoniser la voix d'un article, d'un email, d'un post ou d'une page, de vérifier si un texte respecte notre style, ou de corriger un contenu qui ne nous ressemble pas. Ne pas utiliser pour définir la voix de marque elle-même (Pack Positioning) ni pour optimiser un texte pour le référencement (Pack SEO Skills).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "contenu-relecture-tics-ia",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Relit un texte en français et repère les tics de l'écriture générée par l'IA (tiret long, triades, formules gonflées, mise en scène, résidus de conversation, calques de l'anglais), explique chacun et propose une correction sans jamais ajouter un fait. Utiliser quand l'utilisateur demande de relire un texte écrit avec l'IA, de rendre un texte plus humain, de retirer ce qui trahit un texte écrit par une IA, de vérifier un article, un post ou un email avant publication, ou pourquoi un texte sonne artificiel. Ne pas utiliser pour appliquer la voix de la marque (contenu-redaction-voix-de-marque) ni pour optimiser un texte pour le référencement (Pack SEO Skills).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "contenu-sequence-email-nurture",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Conçoit une séquence d'emails de nurturing complète pour une base de leads existante, avec logique de progression et sorties. Utiliser quand l'utilisateur demande une séquence de nurturing, des emails pour réchauffer des leads, un scénario d'emails après téléchargement ou webinaire, une séquence d'onboarding marketing, un workflow email pour sa base, ou comment convertir des leads tièdes en demandes de démo. Ne pas utiliser pour le premier contact avec des prospects froids (prospection-email-a-froid-personnalise) ni pour relancer une opportunité commerciale engagée (pipeline-relance-opportunite-dormante).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "demand-gen-aimant-a-leads",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Conçoit un aimant à leads qui attire les bons prospects et alimente le pipeline : choix du format, promesse, structure du contenu et dispositif de capture. Utiliser quand l'utilisateur demande un lead magnet, un livre blanc, un guide ou une checklist à télécharger, un calculateur ou un autodiagnostic, une idée de contenu à mettre derrière un formulaire, ou pourquoi ses téléchargements ne deviennent jamais des clients. Ne pas utiliser pour la séquence email qui suit le téléchargement (contenu-sequence-email-nurture) ni pour un contenu visant le classement dans les moteurs de recherche (Pack SEO Skills).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "demand-gen-campagne-abm",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Conçoit une campagne d'account-based marketing sur une liste de comptes nommés : sélection, recherche par compte, messages personnalisés et orchestration marketing-ventes. Utiliser quand l'utilisateur demande une campagne ABM, comment cibler des comptes stratégiques nommés, un plan d'attaque sur ses comptes clés, du marketing des comptes stratégiques, comment aligner marketing et ventes sur une liste de grands comptes, ou une approche one-to-few. Ne pas utiliser pour une campagne de volume sur un segment entier (demand-gen-campagne-multicanale) ni pour choisir les critères de ciblage de fond (prospection-strategie-de-prospection-icp).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "demand-gen-campagne-multicanale",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Orchestre l'exécution d'une campagne sur plusieurs canaux : calendrier coordonné, messages déclinés par canal, points de contact et pilotage en vol. Utiliser quand l'utilisateur demande d'orchestrer une campagne multicanale, de coordonner email, LinkedIn, publicité et webinaire, un plan d'exécution de campagne, un calendrier de diffusion cross-canal, ou comment faire travailler ses canaux ensemble au lieu de les empiler. Ne pas utiliser pour concevoir le concept et l'idée de la campagne (strategie-strategie-de-campagne) ni pour une campagne dédiée à une liste de comptes nommés (demand-gen-campagne-abm).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "demand-gen-webinaire",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Conçoit un webinaire de bout en bout : angle, déroulé minuté, dispositif de promotion et exploitation des inscrits après l'événement. Utiliser quand l'utilisateur demande d'organiser un webinaire, un plan de promotion d'événement en ligne, un déroulé ou un script de webinaire, comment remplir ses webinaires, quoi faire des inscrits et des no-shows, ou comment transformer un webinaire en pipeline. Ne pas utiliser pour un événement physique ou un salon (hors périmètre du pack) ni pour la séquence de nurture générique (contenu-sequence-email-nurture).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "pilotage-audit-de-funnel",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Audite le funnel marketing et commercial de bout en bout pour localiser les fuites, chiffrer leur coût et prioriser les corrections. Utiliser quand l'utilisateur demande un audit de son funnel, une analyse de conversion étape par étape, où il perd ses leads, pourquoi le pipeline ne suit pas le trafic, un diagnostic de l'entonnoir, des taux de conversion à comparer, ou quoi corriger en priorité dans son acquisition. Ne pas utiliser pour le rapport mensuel destiné à la direction (pilotage-synthese-pipeline-mensuelle) ni pour concevoir les tests correctifs détaillés (pilotage-plan-de-tests-ab).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "pilotage-donnees-lisibles-par-un-agent",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Rend les données marketing d'une PME lisibles par un agent IA sans entrepôt de données lourd : inventaire des sources, choix lecture directe ou copie datée pour chacune, catalogue des tables avec leur date, règle de trace et test de lecture. Utiliser quand l'utilisateur demande comment brancher son agent IA sur ses données marketing, de donner à Claude accès à GA4, Search Console, ses régies ou son CRM, de centraliser ses exports marketing, pourquoi l'agent cite des chiffres périmés, un tableau de bord lisible par une IA, ou s'il faut un entrepôt de données. Ne pas utiliser pour produire le rapport mensuel (pilotage-synthese-pipeline-mensuelle) ni pour lire une source en profondeur (technique-lecture-ga4, Pack SEO Skills).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "pilotage-plan-de-tests-ab",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit un plan de tests A/B rigoureux et priorisé : hypothèses, variantes, tailles d'échantillon réalistes et règles de décision. Utiliser quand l'utilisateur demande un plan de tests A/B, quoi tester en priorité sur ses pages ou emails, comment structurer une expérimentation, si son test est significatif, un backlog d'optimisation, ou pourquoi ses tests ne concluent jamais rien. Ne pas utiliser pour localiser d'abord les fuites du funnel (pilotage-audit-de-funnel) ni pour rédiger les variantes créatives elles-mêmes (contenu-publicites-multi-angles, contenu-page-d-atterrissage).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "pilotage-synthese-pipeline-mensuelle",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Produit le rapport mensuel qui prouve la contribution du marketing au pipeline et aux revenus, lisible par un DG en cinq minutes. Utiliser quand l'utilisateur demande un rapport marketing mensuel, une synthèse pipeline pour la direction, comment prouver le ROI du marketing, un reporting de contribution au chiffre d'affaires, préparer un comité de direction ou un board, ou répondre à « que rapporte le marketing ». Ne pas utiliser pour diagnostiquer en profondeur les fuites du funnel (pilotage-audit-de-funnel) ni pour la revue opérationnelle des deals (pipeline-priorisation-pipeline).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "pipeline-diagnostic-risque-deal",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Analyse en profondeur une opportunité commerciale pour identifier ses risques réels, ce qui manque pour gagner et le plan de consolidation. Utiliser quand l'utilisateur demande pourquoi un deal inquiète, une revue de deal, un diagnostic d'opportunité, si un deal va vraiment se signer, ce qui manque pour gagner une affaire, une analyse avant le forecast, ou un avis avant d'investir plus sur un compte. Ne pas utiliser pour prioriser l'ensemble du pipeline (pipeline-priorisation-pipeline) ni pour relancer un deal déjà silencieux (pipeline-relance-opportunite-dormante).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "pipeline-priorisation-pipeline",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Priorise les opportunités d'un pipeline commercial selon des critères objectifs et alloue l'effort de la semaine ou du mois. Utiliser quand l'utilisateur demande de prioriser ses deals, quels prospects travailler en premier, un scoring d'opportunités, comment répartir son temps commercial, une revue de pipeline structurée, ou quoi faire quand tout semble urgent. Ne pas utiliser pour analyser en profondeur les risques d'un deal précis (pipeline-diagnostic-risque-deal) ni pour produire le rapport mensuel de contribution marketing (pilotage-synthese-pipeline-mensuelle).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "pipeline-relance-opportunite-dormante",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Réveille une opportunité commerciale silencieuse avec une relance qui rouvre la conversation sans harceler, ou acte une sortie propre. Utiliser quand l'utilisateur demande comment relancer un prospect qui ne répond plus, un deal qui s'est endormi, un message de relance après un silence, quoi faire d'un prospect fantôme, une dernière tentative avant de clôturer, ou comment rouvrir un dossier perdu il y a six mois. Ne pas utiliser pour le premier contact à froid (prospection-email-a-froid-personnalise) ni pour les leads marketing jamais engagés commercialement (contenu-sequence-email-nurture).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "prospection-conversations-entrantes-linkedin",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Transforme les signaux entrants LinkedIn (commentaire, connexion, téléchargement, visite répétée) en conversations qualifiées puis en rendez-vous, sans pitch prématuré. Utiliser quand l'utilisateur demande quoi répondre à quelqu'un qui a commenté ou s'est connecté, comment livrer un aimant en message privé, comment qualifier un lead LinkedIn ou relancer une conversation entrante silencieuse. Ne pas utiliser pour la prospection sortante séquencée (prospection-sequence-linkedin) ni pour les opportunités déjà en pipeline (pipeline-relance-opportunite-dormante).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "prospection-email-a-froid-personnalise",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Rédige un email de prospection à froid réellement personnalisé, court et à faible friction, avec variantes d'objets et de corps. Utiliser quand l'utilisateur demande un cold email, un email de prospection, un premier email à un prospect, d'écrire à un compte cible, un email d'approche à froid, d'améliorer son taux de réponse en outbound, ou des objets d'email qui donnent envie d'ouvrir. Ne pas utiliser pour les emails de nurturing sur une base existante (contenu-sequence-email-nurture) ni pour relancer une opportunité déjà engagée (pipeline-relance-opportunite-dormante).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "prospection-liste-des-comptes-cibles",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit la liste des comptes cibles d'une entreprise B2B à partir des registres publics et de la lecture des sites : cadrage des critères en signaux observables, essai mesuré, filtres du moins cher au plus cher, domaines prouvés, verdicts motivés, relecture humaine à l'aveugle. Utiliser quand l'utilisateur demande de construire sa liste de comptes cibles, son marché adressable, une base de prospects à partir du registre des entreprises, de trouver les entreprises qui correspondent à son ICP, une liste pour une campagne ABM, ou de qualifier une liste d'entreprises. Ne pas utiliser pour définir le profil de client idéal lui-même (prospection-strategie-de-prospection-icp) ni pour écrire aux contacts (prospection-email-a-froid-personnalise).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "prospection-prospection-sur-signaux",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Transforme un signal d'affaires (levée de fonds, vague de recrutements, changement d'outil, nomination d'un dirigeant) en angle de prospection daté et en premier message prêt à envoyer. Utiliser quand l'utilisateur mentionne une levée de fonds chez un prospect, un recrutement qui révèle un besoin, une nomination, un changement de stack ou d'outil, demande comment exploiter une actualité pour prospecter, quels signaux surveiller, ou un prétexte de prise de contact crédible. Ne pas utiliser pour choisir les comptes cibles en amont (prospection-strategie-de-prospection-icp) ni pour la veille sur les concurrents (concurrence-veille-concurrentielle).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "prospection-sequence-linkedin",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit une séquence de prospection LinkedIn complète, de la demande de connexion au dernier message, sans pitch prématuré. Utiliser quand l'utilisateur demande une séquence LinkedIn, des messages de connexion, un script de prospection sur LinkedIn, quoi écrire après l'acceptation d'une invitation, comment relancer un prospect sur LinkedIn, ou d'améliorer son taux de réponse en social selling sortant. Ne pas utiliser pour la stratégie de contenu LinkedIn de l'entreprise (social-strategie-linkedin) ni pour le premier contact par email (prospection-email-a-froid-personnalise).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "prospection-strategie-de-prospection-icp",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit une stratégie de prospection complète fondée sur l'ICP, avec segmentation des comptes, tiering, canaux et quotas. Utiliser quand l'utilisateur demande de structurer sa prospection, prioriser ses comptes cibles, définir ses tiers de comptes, choisir ses canaux d'outbound, bâtir un plan de prospection, calibrer les quotas de son SDR, ou organiser sa liste de comptes avant une campagne sortante. Ne pas utiliser pour définir l'ICP lui-même (Pack Positioning) ni pour rédiger les messages (prospection-email-a-froid-personnalise, prospection-sequence-linkedin).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "social-contenu-dirigeant",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Rédige des posts LinkedIn au nom d'un dirigeant ou d'un expert, dans sa voix propre, à partir de ses idées et de son vécu. Utiliser quand l'utilisateur demande des posts pour son CEO ou un fondateur, du personal branding dirigeant, du ghostwriting LinkedIn, de transformer les idées d'un expert en publications, une interview pour en tirer des posts, ou comment faire exister un dirigeant qui n'a pas le temps d'écrire. Ne pas utiliser pour les publications de la page entreprise (social-strategie-linkedin) ni pour les messages privés de prospection (prospection-sequence-linkedin).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "social-optimisation-engagement",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Diagnostique et améliore l'engagement des publications sociales : accroches, formats, horaires, routine de commentaires et exploitation des interactions. Utiliser quand l'utilisateur demande pourquoi ses posts ne décollent pas, comment augmenter la portée ou l'engagement LinkedIn, une analyse de ses publications passées, quoi répondre aux commentaires, une routine d'engagement, ou comment transformer les interactions en conversations utiles. Ne pas utiliser pour définir la ligne éditoriale (social-strategie-linkedin) ni pour rédiger les posts eux-mêmes (social-contenu-dirigeant).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "social-profil-linkedin",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Transforme un profil LinkedIn de dirigeant ou de commercial en page d'atterrissage qui convertit les visites en conversations. Utiliser quand l'utilisateur demande d'optimiser un profil LinkedIn, de réécrire un titre ou une section infos, de rendre un profil orienté client plutôt que CV, ou quand les posts performent mais que les visites de profil ne produisent rien. Ne pas utiliser pour la ligne éditoriale (social-strategie-linkedin) ni pour rédiger des posts (social-contenu-dirigeant).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "social-reemploi-de-contenus",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Transforme un contenu long existant (webinaire, guide, étude, article, cas client) en une série de contenus courts multicanaux. Utiliser quand l'utilisateur demande de recycler un contenu, de découper un webinaire en posts, de réutiliser un livre blanc, un plan de déclinaison de contenu, comment nourrir son calendrier social sans tout créer de zéro, ou de rentabiliser un contenu qui a demandé des semaines. Ne pas utiliser pour créer un contenu original de zéro (contenu-redaction-voix-de-marque) ni pour définir la ligne éditoriale (social-strategie-linkedin).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "social-strategie-linkedin",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit la stratégie de présence LinkedIn d'une entreprise B2B : piliers de contenu, cadence, répartition page et profils, et mesure. Utiliser quand l'utilisateur demande une stratégie LinkedIn, une ligne éditoriale pour LinkedIn, un calendrier de publication, quels contenus poster sur LinkedIn, comment développer sa présence sociale B2B, ou pourquoi sa page entreprise ne produit rien. Ne pas utiliser pour les messages privés de prospection (prospection-sequence-linkedin) ni pour rédiger les posts d'un dirigeant précis (social-contenu-dirigeant).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "strategie-allocation-budget",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Ventile un budget marketing entre canaux et initiatives avec des règles d'arbitrage explicites et des seuils de réallocation. Utiliser quand l'utilisateur demande comment répartir son budget marketing, une allocation budgétaire par canal, combien investir en paid ou en contenu, un arbitrage entre acquisition et notoriété, une défense de budget devant la direction, ou une réallocation en cours d'année. Ne pas utiliser pour construire le plan d'actions lui-même (strategie-plan-marketing-trimestriel) ni pour évaluer la performance passée des canaux (pilotage-audit-de-funnel).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "strategie-architecture-gtm",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit l'architecture go-to-market complète d'une offre : segments, motion de vente, canaux, messages et modèle de revenus alignés. Utiliser quand l'utilisateur demande une stratégie go-to-market, un plan GTM, comment lancer une offre sur un marché, quel motion de vente choisir, comment structurer son acquisition de bout en bout, ou un cadrage avant d'investir en marketing. Ne pas utiliser pour définir le positionnement et le messaging de fond (Pack Positioning) ni pour planifier le trimestre (strategie-plan-marketing-trimestriel).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "strategie-plan-marketing-trimestriel",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit un plan marketing trimestriel priorisé, chiffré et exécutable semaine par semaine. Utiliser quand l'utilisateur demande un plan marketing pour le trimestre, une roadmap marketing T1 T2 T3 T4, comment prioriser ses actions marketing, un plan d'action aligné sur un objectif de pipeline, ou comment répartir l'effort de son équipe sur trois mois. Ne pas utiliser pour repenser l'architecture d'acquisition globale (strategie-architecture-gtm) ni pour arbitrer finement les budgets (strategie-allocation-budget).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "strategie-strategie-de-campagne",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Conçoit la stratégie complète d'une campagne marketing : objectif, audience, promesse, mécanique, canaux et mesure. Utiliser quand l'utilisateur demande de concevoir une campagne, un concept de campagne pour un lancement, une mécanique d'activation, comment structurer une opération marketing de A à Z, un brief de campagne, ou pourquoi ses campagnes ne produisent pas de pipeline. Ne pas utiliser pour planifier l'ensemble du trimestre (strategie-plan-marketing-trimestriel) ni pour exécuter le dispositif multicanal au jour le jour (demand-gen-campagne-multicanale).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "vente-business-case-executif",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit le business case qui aide le champion à vendre le projet en interne : coûts, gains, risques et scénarios chiffrés pour le décideur économique. Utiliser quand l'utilisateur demande un business case, une justification de ROI, un dossier pour convaincre un DAF ou un comité de direction, un calcul de retour sur investissement, un document que le champion présentera en interne, ou comment chiffrer le coût de l'inaction. Ne pas utiliser pour le support de présentation du rendez-vous (vente-presentation-commerciale) ni pour traiter une objection budget ponctuelle (vente-reponses-aux-objections).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "vente-plan-d-action-mutuel",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit un plan d'action mutuel qui structure le chemin vers la signature avec le prospect : étapes, responsabilités des deux parties, dates et jalons de décision. Utiliser quand l'utilisateur demande un mutual action plan, un rétroplanning de deal, comment cadrer les prochaines étapes avec un prospect, un document partagé pour piloter un cycle de vente, comment éviter qu'un deal s'enlise après une bonne démo, ou comment tester le sérieux d'un prospect. Ne pas utiliser pour relancer un deal déjà silencieux (pipeline-relance-opportunite-dormante) ni pour évaluer les risques d'un deal (pipeline-diagnostic-risque-deal).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "vente-preparation-rdv-decouverte",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Prépare un rendez-vous de découverte commercial en trente minutes : recherche sur le compte, hypothèses d'irritant, trame de questions et pièges à éviter. Utiliser quand l'utilisateur demande de préparer un premier rendez-vous, un call de découverte, une trame de questions pour un prospect, une fiche de préparation avant une démo, quoi demander en discovery, ou comment qualifier un prospect en entretien. Ne pas utiliser pour construire le support de présentation (vente-presentation-commerciale) ni pour un rendez-vous de négociation avancée (vente-reponses-aux-objections).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "vente-presentation-commerciale",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit une présentation commerciale personnalisée qui raconte le problème du prospect avant le produit. Utiliser quand l'utilisateur demande un deck de vente, un support de démo ou de soutenance, une présentation pour un rendez-vous client, la structure d'un pitch commercial, comment personnaliser sa présentation pour un compte, ou un support pour un comité de décision. Ne pas utiliser pour le premier rendez-vous de découverte (vente-preparation-rdv-decouverte) ni pour le document de justification économique (vente-business-case-executif).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "vente-reponses-aux-objections",
+  "pack": "Pack Marketing Skills",
+  "pack_slug": "marketing-skills",
+  "description": "Construit des réponses structurées aux objections de vente courantes : prix trop élevé, statu quo, pas de budget, pas le bon moment, il faut que j'en parle en interne. Utiliser quand l'utilisateur demande quoi répondre à une objection, comment traiter le « c'est trop cher », un prospect qui préfère ne rien changer, une objection budget ou timing, un argumentaire de traitement des objections pour son équipe, ou comment relancer après un « on va réfléchir ». Ne pas utiliser pour les objections liées à un concurrent nommé (concurrence-reponse-objection-concurrent) ni pour construire la justification économique complète (vente-business-case-executif).",
+  "page": "https://markentiq.com/packs/pack-marketing-skills.html"
+ },
+ {
+  "skill": "concurrence-analyse-de-page",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Déconstruit une URL, la vôtre ou celle d'un concurrent, sur tous les plans à la fois (positionnement, contenu, on-page, maillage, backlinks, données structurées, expérience), et en tire ce qu'il faut répliquer, éviter ou corriger. À déclencher quand l'utilisateur demande d'analyser une page précise, de décortiquer une URL concurrente, de comprendre pourquoi une page ranke ou ne ranke pas, ou un diagnostic complet d'une page.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "concurrence-analyse-publicitaire",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Analyse la présence publicitaire des concurrents en recherche payante (mots-clés achetés, annonces, pages de destination), pour en tirer des indices de ce qui convertit chez eux et les arbitrages SEO/SEA à faire chez vous. À déclencher quand l'utilisateur demande une analyse des ads concurrents, ce que les concurrents achètent en SEA ou Google Ads, leurs annonces et landing pages payantes, ou comment articuler SEO et publicité face à un concurrent.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "concurrence-ecart-de-backlinks",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Identifie les domaines qui font des liens vers vos concurrents mais pas vers vous (backlink gap) et les transforme en liste de prospects de liens priorisée avec l'approche recommandée. À déclencher quand l'utilisateur demande un écart de backlinks, un link gap, qui fait des liens vers les concurrents, des opportunités de netlinking concurrentiel, ou comment rattraper l'autorité d'un concurrent.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "concurrence-ecart-de-mots-cles",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Mesure l'écart de couverture de mots-clés entre votre site et vos concurrents (gap analysis) et le transforme en plan de rattrapage priorisé. À déclencher quand l'utilisateur demande une analyse d'écart concurrentiel, un keyword gap, les mots-clés sur lesquels les concurrents se positionnent et pas lui, les requêtes que les concurrents captent, ou veut savoir où les concurrents gagnent en organique.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "concurrence-profil-de-backlinks",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Analyse en profondeur le profil de backlinks d'un domaine, le vôtre ou celui d'un concurrent : qualité, ancres, vélocité, schémas d'acquisition et risques. À déclencher quand l'utilisateur demande une analyse de profil de liens, un audit de backlinks, d'où vient l'autorité d'un concurrent, la qualité de ses liens entrants, ou s'inquiète de liens toxiques.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "concurrence-sous-domaines-et-structure",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Cartographie les sous-domaines et l'architecture d'un site concurrent (où il loge son blog, sa documentation, ses outils, quelles sections captent le trafic organique), et en tire des décisions d'architecture pour votre propre site. À déclencher quand l'utilisateur demande d'analyser la structure d'un site concurrent, ses sous-domaines, son arborescence, où placer un blog ou une documentation (sous-domaine ou sous-répertoire), ou comment un concurrent organise son site pour le SEO.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "contenu-audit-de-contenu",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Audite la qualité SEO et éditoriale d'un contenu et rend un verdict net (publier, corriger ou ne pas publier), avec la liste des corrections. À déclencher quand l'utilisateur demande un audit de contenu, une relecture SEO, une évaluation d'article, un contrôle qualité avant publication, une analyse E-E-A-T, ou demande si un texte est prêt à être publié.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "contenu-brief-de-contenu",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Produit un brief de contenu SEO complet et actionnable pour un mot-clé cible. À déclencher quand l'utilisateur demande un brief de contenu, un brief d'article, un plan d'article SEO, une structure de contenu, un cahier des charges rédactionnel, ou veut préparer la rédaction d'une page ou d'un article de blog pour se positionner sur une requête.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "contenu-cluster-de-mots-cles",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Regroupe une liste de mots-clés en clusters thématiques mappés sur des pages, avec priorités et plan de couverture. À déclencher quand l'utilisateur veut clusteriser des mots-clés, grouper des requêtes, organiser sa recherche de mots-clés, construire des topic clusters, faire du keyword mapping, ou décider combien de pages créer pour couvrir un thème.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "contenu-niche-de-mots-cles",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Explore et cartographie la demande de recherche sur une niche ou un créneau, découvre les mots-clés d'un territoire encore non couvert et évalue s'il vaut la peine d'y investir. À déclencher quand l'utilisateur veut découvrir des mots-clés, explorer une niche SEO, évaluer un nouveau segment ou une nouvelle thématique, trouver des opportunités de mots-clés à faible concurrence, ou se demande s'il existe une demande de recherche pour son sujet.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "contenu-opportunites-de-proximite",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Repère les requêtes sur lesquelles le site est déjà proche du top 10 et les transforme en plan de rattrapage priorisé. À déclencher quand l'utilisateur demande où il est déjà bien placé, quelles pages sont proches de la première page, comment gagner des positions rapidement, quels contenus retravailler en priorité, ou par où commencer quand le budget de production est limité. Ne pas utiliser pour découvrir un territoire non couvert (contenu-niche-de-mots-cles) ni pour un audit technique.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "contenu-optimisation-experience-recherche",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Optimise l'expérience de recherche de bout en bout (SXO) d'une page, du snippet dans la SERP jusqu'à la conversion : lisibilité, structure, signaux de confiance, parcours. À déclencher quand l'utilisateur parle de SXO, d'expérience de recherche, de taux de clic à améliorer, de page qui rank mais ne convertit pas, de pogo-sticking, ou veut optimiser une page au-delà du simple placement de mots-clés.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "contenu-page-de-service",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Conçoit la structure et le contenu d'une page de service ou d'une page d'atterrissage SEO pour une offre : proposition de valeur, preuves, objections, FAQ et balisage on-page compris. À déclencher quand l'utilisateur veut créer ou refondre une page de service, une landing page SEO, une page d'offre, une page produit destinée à se positionner sur une requête commerciale, ou demande comment structurer une page qui doit à la fois ranker et convertir.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "contenu-pages-concurrentes",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Analyse les pages qui se positionnent chez les concurrents sur un thème ou un mot-clé et en tire des enseignements exploitables : formats gagnants, angles, structures, espaces non couverts. À déclencher quand l'utilisateur demande quelles pages rankent chez ses concurrents, une analyse des contenus concurrents les mieux positionnés, les top pages d'un domaine concurrent, ou veut savoir ce que publient les concurrents qui fonctionne en SEO.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "geo-renvoi",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Renvoi vers le Pack GEO MarkenTIQ pour tout ce qui touche la visibilité dans les réponses des IA. À consulter quand l'utilisateur parle de part de voix IA, de GEO, de generative engine optimization, d'AEO, de visibilité dans ChatGPT, Claude, Vibe, Perplexity, Gemini ou les AI Overviews, de citations par les IA, ou d'audit GEO d'une URL.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "strategie-etat-des-lieux",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Produit le rapport de départ SEO d'un site, le point zéro que toutes les mesures suivantes reliront en delta. À déclencher quand l'utilisateur demande où en est son site, un état des lieux SEO, un point de départ avant de décider quoi faire, un premier diagnostic, ou quand aucun rapport n'existe et qu'il faut savoir d'où l'on part. Ne pas utiliser pour diagnostiquer la technique en détail (technique-audit-technique) ni pour séquencer les actions en feuille de route (strategie-orchestrateur).",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "strategie-orchestrateur",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "L'orchestrateur du Pack SEO Skills : reçoit un objectif et un contexte, choisit les skills pertinentes du pack, les séquence en un plan d'exécution daté avec dépendances, points de contrôle et livrables. À déclencher quand l'utilisateur demande un plan SEO, une feuille de route SEO, une stratégie SEO, par où commencer, quelles skills exécuter et dans quel ordre, ou veut orchestrer le pack sur un objectif : refonte, croissance de trafic, défense de positions.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "technique-audit-technique",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Audite la santé technique SEO d'un site (crawlabilité, indexation, vitesse, mobile, doublons, redirections), et livre un plan de correction priorisé P1/P2/P3 avec le responsable probable de chaque correctif. À déclencher quand l'utilisateur demande un audit technique SEO, un état des lieux technique, pourquoi ses pages ne s'indexent pas, un contrôle de crawlabilité ou de vitesse, ou la santé SEO globale de son site.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "technique-donnees-structurees",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Choisit les types schema.org pertinents pour chaque gabarit de page, produit le balisage JSON-LD prêt à intégrer et le protocole de validation. À déclencher quand l'utilisateur demande des données structurées, du schema.org, du JSON-LD, des rich snippets, des résultats enrichis, ou comment baliser ses pages (FAQ, produit, article, avis, organisation).",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "technique-images-et-medias",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Audite et optimise les images et médias d'un site pour le SEO : attributs alt, noms de fichiers, formats modernes, poids, lazy loading, stabilité visuelle, sitemap d'images et vidéos. À déclencher quand l'utilisateur demande une optimisation d'images SEO, un audit des images, des alt manquants, des images trop lourdes, le référencement d'images ou de vidéos, ou une amélioration de la vitesse liée aux médias.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "technique-lecture-ga4",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Lit les rapports d'acquisition de Google Analytics 4 (GA4) pour dire d'où vient vraiment le trafic d'un site, et contrôle la manière dont il est identifié : balises UTM, regroupement des canaux, part du trafic direct ou non attribué, événements clés par canal. À déclencher quand l'utilisateur demande de lire son GA4, une analyse des sources de trafic, d'où viennent ses visiteurs, un contrôle de ses UTM, pourquoi tant de trafic direct ou « Unassigned », si ses campagnes e-mail, LinkedIn ou publicitaires sont bien suivies, ou la partie trafic d'un bilan mensuel.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "technique-seo-local",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Construit ou audite la visibilité locale d'une entreprise : fiche d'établissement, cohérence nom-adresse-téléphone, pages locales, avis, balisage LocalBusiness, citations locales. À déclencher quand l'utilisateur demande du SEO local, une fiche Google Business Profile à optimiser, apparaître dans le pack local ou sur la carte, des pages par ville ou par agence, ou la gestion des avis pour le référencement local.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "technique-sitemap-et-crawl",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Contrôle le couple sitemap XML, robots.txt et budget de crawl d'un site : couverture, pages orphelines, index bloat, cohérence entre ce qui est déclaré, crawlé et indexé. À déclencher quand l'utilisateur demande une vérification de sitemap, un problème de crawl ou de budget de crawl, des pages non indexées, des pages orphelines, un robots.txt à valider, ou une mise en cohérence sitemap et indexation.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "technique-suivi-des-derives",
+  "pack": "Pack SEO Skills",
+  "pack_slug": "seo-skills",
+  "description": "Détecte les régressions SEO dans le temps en comparant l'état du site à une baseline (positions, indexation, vitesse, balisage, maillage, backlinks perdus), et qualifie chaque dérive avec sa cause probable et son correctif. À déclencher quand l'utilisateur demande un suivi des dérives, une détection de régressions SEO, ce qui a changé depuis le mois dernier, pourquoi le trafic ou les positions baissent, ou la mise en place d'une surveillance SEO périodique.",
+  "page": "https://markentiq.com/packs/pack-seo-skills.html"
+ },
+ {
+  "skill": "geo-orchestrateur",
+  "pack": "Pack GEO (AI Search)",
+  "pack_slug": "geo",
+  "description": "Pilote de bout en bout la boucle GEO (Generative Engine Optimization : rendre une marque visible et correctement citée dans les réponses des IA) en s'appuyant sur les gabarits du Pack GEO. Fait arbitrer en amont par l'utilisateur tout ce qui peut l'être, cadre le périmètre, exécute le panel de prompts d'audit, produit la baseline, propose le plan d'action par couche, puis passe le contrôle qualité. À déclencher quand l'utilisateur demande un audit de visibilité IA, un état des lieux GEO, savoir si ChatGPT, Claude, Vibe ou Perplexity citent sa marque, une baseline de visibilité générative, un plan pour être recommandé par les IA, ou de lancer une boucle GEO. Ne pas utiliser pour le référencement classique sur Google (voir le Pack SEO Skills).",
+  "page": "https://markentiq.com/packs/pack-geo.html"
+ },
+ {
+  "skill": "ads-creation-kit-creatif-par-canal",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Décline des angles publicitaires validés aux formats exacts de Google Ads et LinkedIn Ads : textes finaux aux limites de caractères, briefs visuels, matrice de correspondance angle-format-audience. Utiliser quand l'utilisateur demande les textes définitifs de ses annonces, une déclinaison RSA ou LinkedIn de ses angles, un kit créatif de campagne, des variantes prêtes à importer, ou le renouvellement créatif d'un cycle. Ne pas utiliser pour inventer les angles eux-mêmes (contenu-publicites-multi-angles, Pack Marketing Skills) ni pour la page de destination (contenu-page-d-atterrissage).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-entretien-controle-regulier",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "La vérification régulière du dispositif publicitaire : compare l'état courant à une baseline datée, détecte les dérives de dépense, de tracking, de diffusion et de performance, qualifie chaque dérive et déclenche les alertes (sous 2 heures en urgence, sous 24 heures sinon). Utiliser quand l'utilisateur demande un contrôle de ses campagnes, une vérification régulière du compte, pourquoi la dépense ou les performances dérivent, un état des lieux avant reprise en main, ou l'installation de la surveillance. Ne pas utiliser pour la revue décisionnelle des points de passage (ads-pilotage-revue-de-cycle) ni pour juger la qualité pipeline (ads-pilotage-lecture-pipeline).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-entretien-tri-des-requetes",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Relit le rapport des termes de recherche Google Ads à chaque cycle et en tire une file de décisions à valider : candidats en mots-clés négatifs classés par dépense, termes à instruire, termes protégés, termes à garder. Le tri en masse est délégué à un modèle rapide et peu coûteux, contrôlé sur un échantillon tranché à la main. Utiliser quand l'utilisateur demande de nettoyer ses termes de recherche, de trouver des mots-clés négatifs, pourquoi des clics partent sur des requêtes hors sujet, un tri du rapport des requêtes, ou la routine d'exclusion du cycle. Ne pas utiliser pour poser les négatifs structurels d'un compte neuf (ads-preparation-plan-de-compte) ni pour décider la coupe d'une campagne (ads-pilotage-revue-de-cycle).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-entretien-veille-crea-concurrents",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Échantillonne les campagnes publicitaires des concurrents via les bibliothèques officielles des régies (Google Ads Transparency Center, LinkedIn Ad Library) pour en tirer des angles, formats et offres d'activation neufs : l'anti-entropie créative du dispositif. Utiliser quand l'utilisateur demande ce que font les concurrents en publicité, une veille créative concurrente, des idées d'angles neufs, comment renouveler des campagnes qui fatiguent, ou l'inspiration publicitaire du cycle. Ne pas utiliser pour l'arbitrage SEO/SEA sur les mots-clés achetés (concurrence-analyse-publicitaire, Pack SEO Skills) ni pour rédiger les variantes (ads-creation-kit-creatif-par-canal).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-pilotage-lecture-pipeline",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Croise la dépense publicitaire avec les données de pipeline pour lire ce que les campagnes produisent vraiment : CAC, coût par opportunité, qualité des leads par campagne et par canal. Utiliser quand l'utilisateur demande ce que rapportent ses campagnes, un coût par opportunité, la qualité des leads du paid, le CAC par canal, si un canal vaut son coût, ou la lecture pipeline du bilan de cycle. Ne pas utiliser pour normaliser la source de pipeline (ads-preparation-pipeline-canonique, prérequis) ni pour décider la réallocation (ads-pilotage-plan-d-investissement).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-pilotage-plan-d-investissement",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Prépare la réallocation budgétaire du cycle suivant à partir du bilan et de la lecture pipeline : paliers plafonnés, mouvements motivés, tout en proposition à valider. Utiliser quand l'utilisateur demande comment répartir le budget du prochain cycle, s'il faut scaler une campagne, réallouer entre Google et LinkedIn, augmenter ou baisser des budgets, ou le plan d'investissement de la boucle. Ne pas utiliser pour l'enveloppe marketing globale (strategie-allocation-budget, Pack Marketing Skills) ni pour produire le bilan lui-même (ads-pilotage-revue-de-cycle et ads-pilotage-lecture-pipeline).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-pilotage-plan-de-lancement",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Assemble le plan de lancement complet d'une vague de campagnes : budgets, enchères, audiences, calendrier, campagnes paramétrées et posées EN PAUSE, avec les validations bloquantes avant activation. Utiliser quand l'utilisateur demande de préparer le lancement de ses campagnes, un plan de mise en ligne, le paramétrage complet avant activation, une checklist de lancement Google Ads ou LinkedIn Ads, ou la pose d'une nouvelle vague. Ne pas utiliser pour concevoir la structure (ads-preparation-plan-de-compte) ni pour rédiger les annonces (ads-creation-kit-creatif-par-canal).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-pilotage-revue-de-cycle",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "La revue des campagnes aux trois points de passage du cycle de 15 jours : J+3 contrôle de santé, J+8 revue mi-cycle avec coupes et rotations proposées, J+15 bilan de cycle. Utiliser quand l'utilisateur demande une revue de ses campagnes, un point à J+3, J+8 ou J+15, s'il faut couper une annonce ou une campagne, une lecture des performances du cycle, ou le bilan avant réallocation. Ne pas utiliser pour croiser avec le pipeline (ads-pilotage-lecture-pipeline, convoquée au bilan) ni pour décider la réallocation budgétaire (ads-pilotage-plan-d-investissement).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-preparation-pipeline-canonique",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Normalise n'importe quelle source de pipeline (export CRM, MCP CRM, base Airtable, CSV tenu à la main) vers le schéma canonique qui permet de piloter les campagnes au CAC et au coût par opportunité. Utiliser quand l'utilisateur veut brancher son pipeline sur le pilotage publicitaire, normaliser ses données de leads et d'opportunités, mapper les stages de son CRM, préparer un export pour la lecture pipeline, ou quand ses sources de données pipeline sont hétérogènes. Ne pas utiliser pour spécifier le tracking des campagnes (ads-preparation-plan-de-mesure) ni pour analyser les résultats (ads-pilotage-lecture-pipeline).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-preparation-plan-de-compte",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Conçoit la structure des comptes Google Ads et LinkedIn Ads en plan prêt à poser : campagnes, groupes, nommage, négatifs structurels, audiences. Utiliser quand l'utilisateur demande comment structurer son compte publicitaire, une architecture de campagnes Google ou LinkedIn, un plan de compte, des conventions de nommage de campagnes, ou veut restructurer un compte existant devenu illisible. Ne pas utiliser pour rédiger les annonces (ads-creation-kit-creatif-par-canal) ni pour poser les budgets définitifs (ads-pilotage-plan-de-lancement).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-preparation-plan-de-mesure",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "Conçoit le dispositif de mesure des campagnes avant le premier euro dépensé : actions de conversion, capture des identifiants de clic (gclid, li_fat_id) et des UTM, remontée des conversions hors ligne depuis le CRM, fenêtres d'attribution déclarées. Utiliser quand l'utilisateur demande comment tracker ses campagnes, un plan de mesure ou de tracking, la configuration des conversions Google ou LinkedIn, comment remonter les ventes du CRM vers les plateformes, ou pourquoi ses conversions ne remontent pas. Ne pas utiliser pour normaliser la donnée pipeline elle-même (ads-preparation-pipeline-canonique) ni pour lire les résultats (ads-pilotage-lecture-pipeline).",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ },
+ {
+  "skill": "ads-strategie-orchestrateur",
+  "pack": "Pack BtoB Ads Skills",
+  "pack_slug": "btob-ads-skills",
+  "description": "L'orchestrateur du Pack BtoB Ads Skills : reçoit un objectif et un contexte, choisit le scénario (lancement, structuration, optimisation continue), séquence les skills du pack en feuille de route par cycles de 15 jours avec points de passage, validations et livrables. À déclencher quand l'utilisateur demande un plan de campagnes payantes, une stratégie Google Ads ou LinkedIn Ads, par où commencer en paid, comment organiser le pilotage de ses campagnes, ou veut orchestrer le pack sur un objectif de pipeline.",
+  "page": "https://markentiq.com/packs/pack-btob-ads-skills.html"
+ }
+]
